@@ -1,9 +1,10 @@
 # John Whiles - CV
-  A full stack web developer based in London. I love learning and building a deep understanding of the technologies I use. Examples of my work across the tech stack can be found on [my Github page](https://github.com/jwhiles).
+## Profile
+A full stack web developer based in London. I love learning and building a deep understanding of the technologies I use. Examples of my work across the tech stack can be found on [my Github page](https://github.com/jwhiles).
 
-  I am primarily a Javascript developer, but am keen to branch out into other programming languages. I strive to write the purest and most functional code I can - as I believe that it is the best way to make a program testable and reliable.
+I am primarily a Javascript developer, but am keen to branch out into other programming languages. I strive to write the purest and most functional code I can - as I believe that it is the best way to make a program testable and reliable.
 
-  I am eager to become the best developer I can be. As such I hope to work in an environment which encourages personal development and allows me to work with talented people on great projects.
+I am eager to become the best developer I can be. As such I hope to work in an environment which encourages personal development and allows me to work with talented people on great projects.
 
 
 ## Development Experience
@@ -33,11 +34,11 @@ A personal website built to present my CV and host a development focused blog. T
 Simple boilerplate servers for two popular Node.js frameworks. These were built to allow myself and others to quickly get more complex servers up and running.
 
 ### GitPom
-[Github](https://github.com/The-Authenticators/gitpom)
+[Web link](https://salty-wave-92062.herokuapp.com/) | [Github](https://github.com/The-Authenticators/gitpom)
 
 A productivity tool built as part of a small team whilst studying at Founders and Coders. The website integrates with OAuth on Github to lets users select a Github issue to work on. When an issue is selected the site will start a [Pomodoro Timer](https://en.wikipedia.org/wiki/Pomodoro_Technique). Once the timer has finished, the user is prompted to take a break, and can mark whether the issue has been resolved.
 
-### autocomplete
+### Autocomplete
 [Web link](https://autocomplete-heroku.herokuapp.com/) | [Github](https://github.com/Jwhiles/autocomplete)
 
 A simple text autocomplete, built as part of a small team whilst studying at Founders and Coders. As the user types the app consults a dictionary stored on the server and shows a list of suggested words
