@@ -46,7 +46,7 @@ A simple text autocomplete, built as part of a small team whilst studying at Fou
 ### Next
 *2015*
 
-I worked as a trainee Merchandiser at Next's head office. I was responsible Next's stock of mirrors - an area with an annual budget of £4 million. I worked closely with buyers and designers to deliver a compelling range, in order to make our customers happy.
+I worked as a trainee Merchandiser at Next's head office. I was responsible for Next's stock of mirrors - an area with an annual budget of £4 million. I worked closely with buyers and designers to deliver a compelling range, in order to make our customers happy.
 
 ### Premium Models
 *2013 to 2015*
