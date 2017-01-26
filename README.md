@@ -23,9 +23,12 @@ A-Level Chemistry, Mathematics, and English (A, A, B)
 * Worked closely with design team to deliver a compelling range in my product area.
 * Ensured that foreign suppliers delivered quality products on time, by managing production in and shipments from the far east.
 
+### Press Officer, Citizen's Advice Bureau, *2014 to 2015*
+* Managed wordpress website and social media accounts to reach out to clients. 
+* Implemented new branding locally, by creating tutorials and templates for non-technical colleagues.
+* Organised public facing events, including a prize winning campaign that encouraged voter participation. 
+
 ### Model, Premium Models, *2013 to 2015*
-* 
-After graduating I worked as a fashion model. This broadened my horizons and ruined my chances of ever having my own website be the first Google result for my name.
 
 
 
