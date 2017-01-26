@@ -1,61 +1,35 @@
 # John Whiles - CV
 ## Profile
-A full stack web developer based in London. I love learning and building a deep understanding of the technologies I use. Examples of my work across the tech stack can be found on my Github page.
+A full stack web developer based in London, looking for a role that offers great learning opportunities. Comfortable using a range of technologies and focused on writing clean, comprehensible and testable code by applying functional programming principles. 
 
-I am primarily a Javascript developer. I am keen to branch out into other programming languages. I strive to write the purest and most functional code I can - as I believe that it is the best way to make a program testable and reliable.
+## Technology
+**Client-Side:** HTML5, CSS3, SASS, ES6 Javascript, React and Redux
+**Server-Side:** Node.js, Hapi, Express, PostgreSQL, OAuth
+**Other Technologies:** TDD, Ramda, Continuous Integration with Travis, Git and GitHub, Elm Lang
 
-I am eager to become the best developer I can be. I hope to work in an environment which encourages personal development and allows me to work with talented people on great projects.
+## Education
+### Founders and Conders, *2016 - 2017*
+A highly selective four-month web development course. Focused on learning fundamentals of web development by working in small teams using agile methodologies. 
 
-## Development Experience
-### [Founders and Coders](http://www.foundersandcoders.com/)
-*October 2016 to Present*
+### Royal Holloway, University of London, *2010 - 2013*
+BA Politics with Philosophy (2:1)
 
-A highly selective full-time web development course, with strong links to the tech for good sector.
-* Focus on fundamentals of Semantic HTML, CSS and vanilla Javascript
-* Consistent usage of agile methodologies, including pair programming
-* Test driven development, and continuous integration
-* Relational databases using PostgreSQL
-* Deployment
-* Use various APIs across the full-stack
-* Git and GitHub
-* Authentication and session management, using OAuth
-* Project management and UX design. rapidly delivering minimum viable products to meet client specifications
-
-## Projects
-### CV Site
-[Github](https://github.com/Jwhiles/cv-site)
-
-A personal website built to present my CV and host a development focused blog. The site is built on Hapi, and uses SASS to ensure consistent styling. The blog utilises a custom CMS built with PostgreSQL. It serves markdown content, and can be easily updated from any web browser through a secure admin route.
-
-### Hapi and Express Boilerplates
-[Hapi Github](https://github.com/Jwhiles/hapi-boilerpalte) | [Express Github](https://github.com/Jwhiles/express-boilerplate)
-
-Simple boilerplate servers for two popular Node.js frameworks. These were built to allow myself and others to quickly get more complex servers up and running.
-
-### [GitPom](https://salty-wave-92062.herokuapp.com/)
-[Github](https://github.com/The-Authenticators/gitpom)
-
-A productivity tool built as part of a small team whilst studying at Founders and Coders. The website integrates with OAuth on Github to lets users select a Github issue to work on. When an issue is selected the site will start a [Pomodoro Timer](https://en.wikipedia.org/wiki/Pomodoro_Technique). Once the timer has finished, the user is prompted to take a break, and can mark whether the issue has been resolved.
-
-### [Autocomplete](https://autocomplete-heroku.herokuapp.com/)
-[Github](https://github.com/Jwhiles/autocomplete)
-
-A text completer, built as part of a small team whilst studying at Founders and Coders. As the user types, the app consults a dictionary stored on the server and shows a list of suggested words
+### Bosworth Community College, *2008 - 2010*
+A-Level Chemistry, Mathematics, and English (A, A, B)
 
 ## Previous Experience
-### Next
-*2015*
+### Graduate Merchandiser, Next, *2015*
+* Managed purchases for an area with an annual budget of £4 million.
+* Worked closely with design team to deliver a compelling range in my product area.
+* Ensured that foreign suppliers delivered quality products on time, by managing production in and shipments from the far east.
 
-I worked as a trainee Merchandiser at Next's head office. I was responsible for Next's stock of mirrors - an area with an annual budget of £4 million. I worked closely with buyers and designers to deliver a compelling range, in order to make our customers happy.
+### Press Officer, Citizen's Advice Bureau, *2014 to 2015*
+* Managed WordPress website and social media accounts to reach out to clients. 
+* Implemented new branding locally, by creating tutorials and templates for non-technical colleagues.
+* Organized public facing events, including a prize winning campaign that encouraged voter participation. 
 
-### Premium Models
-*2013 to 2015*
+### Model, Premium Models, *2013 to 2015*
 
-After graduating I worked as a fashion model. This broadened my horizons and ruined my chances of ever having my own website be the first Google result for my name.
 
-### Royal Holloway, University of London
-*2010 to 2013*
-
-BA Politics with Philosophy (2:1)
 
 ## References available on request
