@@ -13,7 +13,7 @@ A full stack web developer based in London, looking for a role that offers great
 * TDD, Ramda, Continuous Integration with Travis, Git and GitHub, Elm Lang
 
 ## Education
-### Founders and Conders, *2016 - 2017*
+### [Founders and Coders](http://www.foundersandcoders.com/), *2016 - 2017*
 A highly selective four-month web development course. Focused on learning fundamentals of web development by working in small teams using agile methodologies.
 
 ### Royal Holloway, University of London, *2010 - 2013*
