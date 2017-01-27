@@ -1,6 +1,6 @@
 # John Whiles - CV
 ## Profile
-A full stack web developer based in London, looking for a role that offers great learning opportunities. Comfortable using a range of technologies and focused on writing clean, comprehensible and testable code by applying functional programming principles.
+A full stack web developer based in London looking for a role that offers great learning opportunities. Comfortable using a range of technologies and focused on writing clean, comprehensible and testable code by applying functional programming principles.
 
 ## Technology
 ### Client-Side
@@ -23,7 +23,7 @@ BA Politics with Philosophy (2:1)
 A-Level Chemistry, Mathematics, and English (A, A, B)
 
 ## Previous Experience
-### Graduate Merchandiser, Next, *2015*
+### Graduate Merchandiser, Next, *2016*
 * Managed purchases for an area with an annual budget of £4 million.
 * Worked closely with design team to deliver a compelling range in my product area.
 * Ensured that foreign suppliers delivered quality products on time, by managing production in and shipments from the far east.
