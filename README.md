@@ -2,30 +2,38 @@
 ## Profile
 A full stack JavaScript developer based in London. 
 
-I care about improving diversity and accesibility in tech. I value simplicity in
+I care about improving diversity and accessibility in tech. I value simplicity in
 design and enjoy using functional techniques to write comprehensible and testable
 code. 
 
 
 ## Tech Experience
-### Technologies
-Node.js, Webpack, React, Redux, Jest, TypeScript, Elm
+### Technologies used professionally 
+__Node.js__,
+__Webpack__,
+__React__,
+__Redux__,
+__Jest__,
+__TypeScript__,
+__Elm__,
 
 ### JavaScript Engineer - Just Giving
-March 2017 - Present
-Creating great user experiences for Charitie's and their supporters using the
+__March 2017 - Present__
+
+Creating great user experiences for charities' and their supporters using the
 best of the modern JavaScript ecosystem. As part of a cross functional team I
 work closely with C# developers and web designers using Agile methodologies to 
 deliver consistent development whilst ensuring end-user satisfaction.
-Very involved in maintaining a library of resuable code which includes user 
+Very involved in maintaining a library of reusable code which includes user 
 interface components, a comprehensive style guide, and server side utilities.
 
 ### Developer - Founders and Coders
-October 2016 - February 2017
+__October 2016 - February 2017__
+
 During this this highly selective intensive web development bootcamp I learnt the 
 fundamentals of working as a software developer by creating a series of projects as part
 of agile teams. Working across the stack from front ends to SQL databases I
-created  applcations ranging from search auto-completes, to minimal viable 
+created  applications ranging from search auto-completes, to minimal viable 
 products for charity partners. 
 
 ## Formal Education
