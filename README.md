@@ -20,9 +20,9 @@ __Elm__,
 ### JavaScript Engineer - Just Giving
 __March 2017 - Present__
 
-Creating great user experiences for charities' and their supporters using the
+Creating great user experiences for charities and their supporters using the
 best of the modern JavaScript ecosystem. As part of a cross functional team I
-work closely with C# developers and web designers using Agile methodologies to 
+work closely with C# developers and web designers using agile methodologies to 
 deliver consistent development whilst ensuring end-user satisfaction.
 Very involved in maintaining a library of reusable code which includes user 
 interface components, a comprehensive style guide, and server side utilities.
@@ -30,7 +30,7 @@ interface components, a comprehensive style guide, and server side utilities.
 ### Developer - Founders and Coders
 __October 2016 - February 2017__
 
-During this this highly selective intensive web development bootcamp I learnt the 
+During this highly selective, intensive web development bootcamp I learnt the 
 fundamentals of working as a software developer by creating a series of projects as part
 of agile teams. Working across the stack from front ends to SQL databases I
 created  applications ranging from search auto-completes, to minimal viable 
