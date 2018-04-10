@@ -16,7 +16,7 @@ __January 2018 - Present__
 
   At the Trainline I work on customer facing services which are reliable and 
 scalable. A lot of work has been focused on optimisation - I was able to make
-signifigant savings in our API spend by improving how we handle loading 
+significant savings in our API spend by improving how we handle loading 
 certain data. 
   I am currently responsible for replatforming the company's biggest web 
 traffic driver to Node.JS and React, whilst also working as part of a 
