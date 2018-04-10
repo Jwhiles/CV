@@ -1,6 +1,6 @@
 # John Whiles - CV
 ## Profile
-A full stack JavaScript developer based in London. 
+A full stack developer based in London. 
 
 I care about improving diversity and accessibility in tech. I value simplicity in
 design. And enjoy using functional techniques to write comprehensible and testable
