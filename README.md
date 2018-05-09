@@ -15,22 +15,23 @@ I am particularly interested in working with more functional, and strongly typed
 __January 2018 - Present__
 
   At the Trainline I work on customer facing services which are reliable and 
-scalable. A lot of work has been focused on optimisation - I was able to make
-significant savings in our API spend by improving how we handle loading 
-certain data. 
-  I am currently responsible for replatforming the company's biggest web 
-traffic driver to Node.JS and React, whilst also working as part of a 
-larger SEO focused team to ensure common standards are met in our services.
+scalable. A lot of my work has been focused on optimisation - and I have learnt
+that building services that respond quickly to users is one of the best ways
+to drive conversion.
+  I am currently responsible for replatforming one of the Trainline's most 
+heavily trafficked web services from .NET to Node.js whilst ensuring full
+feature parity and improved efficiency. 
 
 ### JavaScript Engineer - Just Giving
 __March 2017 - January 2018__
 
-  Creating great user experiences for charities and their supporters using the
-best of the modern JavaScript ecosystem. As part of a cross functional team I
-work closely with C# developers and web designers using agile methodologies to 
-deliver consistent development whilst ensuring end-user satisfaction.
+  At Just Giving I created great user experiences for charities and their supporters 
+using the best of the modern JavaScript ecosystem. As part of a cross functional team I
+worked closely with C# developers and web designers to ensuring end-user satisfaction.
   I was heavily involved in maintaining a library of reusable code which includes 
 user interface components, a comprehensive style guide, and server side utilities.
+  I introduced TypeScript to my team, which improved the reliability of our products
+and made me really appreciate the benefits of static tying.
 
 ### Developer - Founders and Coders
 __October 2016 - February 2017__
