@@ -13,7 +13,7 @@ __July 2018 - Present__
 
   At Habito I have worked on various user focused projects, ranging from a
   redesigned homepage, to a re-implementation of the dynamic fact find which is the core of
-  Habito's user journey. One of my main focuses has been to improve
+  Habito's user journey. One of my main achievements has been to improve
   the accessibility of the projects I work on, by focusing on users' needs as well as on 
   more technical matters.
   Habito use's PureScript and Haskell for all development work. These
