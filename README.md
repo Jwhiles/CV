@@ -16,7 +16,7 @@ __July 2018 - Present__
   Habito's user journey. One of my main achievements has been to improve
   the accessibility of the projects I work on, by focusing on users' needs as well as on 
   more technical matters.
-  Habito use's PureScript and Haskell for all development work. These
+  Habito uses PureScript and Haskell for all development work. These
   languages have taught me a lot about functional programming. I am comfortable with the
   core features of both languages, and have a growing familiarity with the ecosystems 
   of libraries and language extensions which surround them.
