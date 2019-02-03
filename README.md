@@ -11,12 +11,12 @@ design.
 ### Full Stack Engineer - Habito
 __July 2018 - Present__
 
-    At Habito I have worked on various user focused projects, ranging from a
+  At Habito I have worked on various user focused projects, ranging from a
   redesigned homepage, to a re-implementation of the dynamic fact find which is the core of
   Habito's user journey. One of my main focuses has been to improve
   the accessibility of the projects I work on, by focusing on users' needs as well as on 
   more technical matters.
-    At Habito we use PureScript and Haskell for all development work. These
+  Habito use's PureScript and Haskell for all development work. These
   languages have taught me a lot about functional programming. I am comfortable with the
   core features of both languages, and have a growing familiarity with the ecosystems 
   of libraries and language extensions which surround them.
