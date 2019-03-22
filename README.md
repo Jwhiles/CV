@@ -42,7 +42,7 @@ worked closely with C# developers and web designers to ensuring end-user satisfa
   I was heavily involved in maintaining a library of reusable code which includes 
 user interface components, a comprehensive style guide, and server side utilities.
   I introduced TypeScript to my team, which improved the reliability of our products
-and showed me the benefits of static tying.
+and showed me the benefits of static typing.
 
 ### Developer - Founders and Coders
 __October 2016 - February 2017__
